@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/images/lake.jpg": "236690c07321de26550682c399675fb4",
 "assets/NOTICES": "8f2b7ab052dfcf4ace9901a3769cab3f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/shaders/ink_sparkle.frag": "d0a5ddc3a1432406ff4dc979abdd381b",
+"assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -20,11 +20,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "22c00f24315fff24c5e8538307c9e702",
-"/": "22c00f24315fff24c5e8538307c9e702",
-"main.dart.js": "a177253652cf79d4ae8dc128a31252b3",
-"manifest.json": "31d0892e4188060287e9aae431a19a3c",
-"version.json": "00071dbec0c8eacf33b255f2931ac8de"
+"index.html": "98ee2a5eab7e66e48d9e66a3d18dced6",
+"/": "98ee2a5eab7e66e48d9e66a3d18dced6",
+"main.dart.js": "ef6ee0ea9f0b31c49a751f61fe31d2f0",
+"manifest.json": "bf24c84c3bf99672a631c4f84464e793",
+"version.json": "15235b5108d6a877ef74fe3317a96bf7"
 };
 
 // The application shell files that are downloaded before a service worker can
